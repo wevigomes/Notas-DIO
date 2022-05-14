@@ -1,0 +1,5 @@
+Sempre lembrar de fazer o push após commitar os arquivos no bash para o github.
+
+Verificar sempre o status dos aequivos.
+
+Atualizar arquivos
